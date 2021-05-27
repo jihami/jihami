@@ -1,4 +1,4 @@
-### Hi there 👋
+### 내일 예쁘게 꾸며올테니깐 쫌만 기다려!!~~😊
 
 <!--
 **jihami/jihami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
