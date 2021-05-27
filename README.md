@@ -1,5 +1,5 @@
 ### 내일 예쁘게 꾸며올테니깐 쫌만 기다려!!~~😊
-
+<a href="https://www.instagram.com/hippo_hami/" target="_blank"><img src="https://img.shields.io/badge/https://simpleicons.org/icons/instagram.svg-#E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <!--
 **jihami/jihami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
