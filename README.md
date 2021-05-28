@@ -1,10 +1,5 @@
 ### 내일 예쁘게 꾸며올테니깐 쫌만 기다려!!~~😊
-<a href="https://www.instagram.com/hippo_hami/" target="_blank"><img src="http://img.shields.io/badge/-Instagram-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-<a href="https://instagram.com/alpox.dev">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihami](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jihami/jihami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
