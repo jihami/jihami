@@ -1,5 +1,4 @@
 ### 내일 예쁘게 꾸며올테니깐 쫌만 기다려!!~~😊
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihami&count_private=true)
 <!--
