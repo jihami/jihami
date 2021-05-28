@@ -1,7 +1,7 @@
 ### 내일 예쁘게 꾸며올테니깐 쫌만 기다려!!~~😊
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihami&count_private=true)
-<!--
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihami&count_private=true)
+
 **jihami/jihami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
