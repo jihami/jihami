@@ -1,5 +1,5 @@
 ### 내일 예쁘게 꾸며올테니깐 쫌만 기다려!!~~😊
-
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:w2027@e-mirim.hs.kr)](mailto:w2027@e-mirim.hr.kr)
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihami&count_private=true)
 
 **jihami/jihami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
