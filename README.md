@@ -1,4 +1,3 @@
-### 내일 예쁘게 꾸며올테니깐 쫌만 기다려!!~~😊
 <h1 align="center">Hi 👋, I'm jihami</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
