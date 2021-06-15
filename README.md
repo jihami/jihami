@@ -1,6 +1,6 @@
 
 <h1 align="center">김지함 이제부터 개발 접습니다.<br/>찾아오지 마세요.<br/>진짜에요. 진짜 진짜로!!!</h1>
-<!-- <h1 align="center">Hi 👋, I'm jihami..</h1> 
+<!-- <h1 align="center">Hi 👋, I'm jihami</h1> 
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
