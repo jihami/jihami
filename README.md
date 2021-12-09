@@ -11,7 +11,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihami&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihami&show_icons=true&theme=onedark)
 [![Top Langs, style.width="100%"](https://github-readme-stats.vercel.app/api/top-langs/?username=jihami&hide=html&layout=compact)](https://github.com/jihami/jihami/blob/main/README.md)
 
 <!--**jihami/jihami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
