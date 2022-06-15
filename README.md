@@ -14,5 +14,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihami&layout=compact&theme=onedark)
 <!-- username=jihami&hide=html&layout=compact)](https://github.com/jihami/jihami/blob/main/README.md) -->
 </div>
- <img src="https://capsule-render.vercel.app/api?type=shark&color=713fe8&height=140" style="width:100%" alt="HEADER"/>
- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="BADGE"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="BADGE"/> <img src="https://github-readme-stats.vercel.app/api?username=jihami&show_icons=true&theme=material-palenight" alt="STATUS"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihami&layout=compact&theme=material-palenight" alt="BADGE"/>
