@@ -15,3 +15,4 @@
 <!-- username=jihami&hide=html&layout=compact)](https://github.com/jihami/jihami/blob/main/README.md) -->
 </div>
  <img src="https://capsule-render.vercel.app/api?type=shark&color=713fe8&height=140" style="width:100%" alt="HEADER"/>
+ <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="BADGE"/>
